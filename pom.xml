@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>giselletech</groupId>
 	<artifactId>java-rocketseat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>java-rocketseat</name>
 	<description>Gerenciador de Tarefas</description>
 	<properties>
