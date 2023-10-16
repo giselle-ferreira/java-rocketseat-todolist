@@ -5,7 +5,7 @@
 
 ## Deploy
 
-+ [Render](https://render.com/)
++ [Render.com](https://render.com/)
 + https://rocketseat-todolist-e78w.onrender.com
 
 <br/>
