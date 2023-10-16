@@ -1,6 +1,12 @@
 # Rocketseat | Java Event
 
 + Repo for the ToDo List project developed during the Java Week at [Rocketseat](https://www.rocketseat.com.br/), usind Java, Spring Boot, H2 Database and Basic Authorization.
+<br/>
+
+## Deploy
+
++ [Render](https://render.com/)
++ https://rocketseat-todolist-e78w.onrender.com
 
 <br/>
 
